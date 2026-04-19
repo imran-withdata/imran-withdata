@@ -15,26 +15,18 @@
 - 🌱 Currently learning advanced ML techniques
 
 ---
+ 
 
-🛠️ Skills
+**Tech Stack**
 
-💻 Programming & Tools
+* Python (Numpy,Pandas)
+* tatistical analysis and modeling
+* SQL (data extraction & transformation)
+* Machine learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>📊 Data Analysis
+  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-</p>📈 Visualization
-
-<p>
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,wordpress" />
-</p>---
+---
 
 📌 Featured Projects
 
