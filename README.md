@@ -18,10 +18,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Python** – NumPy, Pandas, Data Analysis  
-- **Statistical Analysis & Modeling**  
-- **SQL** – Data Extraction, Cleaning & Transformation  
-- **Machine Learning** – Scikit-learn, Regression, Classification  
+- **Python** (NumPy, Pandas)
+- **Statistical Analysis & Modeling**
+- **SQL** (Data Extraction & Transformation)
+- **Machine Learning** (Scikit-learn, basic models) 
   
 
 ---
