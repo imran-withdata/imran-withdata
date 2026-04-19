@@ -41,5 +41,5 @@
   <a href="https://www.linkedin.com/in/mdimran6426">LinkedIn</a>
 </p>
 <p>
-  📫 Email: mdimran123@gmail.com
+  <a href="mailto:mdimran123@gmail.com">mdimran123@gmail.com</a>
 </p>
