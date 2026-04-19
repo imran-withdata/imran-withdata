@@ -41,8 +41,5 @@
   <a href="https://www.linkedin.com/in/mdimran6426">LinkedIn</a>
 </p>
 <p>
-## 📫 Connect with Me
-
-- 📧 Email: <a href="mailto:mdimran123@gmail.com">mdimran123@gmail.com</a>
-
+  📧 Email: <a href="imranhossan6426@gmail.com">imranhossan6426@gmail.com</a>
 </p>
