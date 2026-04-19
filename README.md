@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Imran</h1>
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Data Analysis</h3>---
+<h3 align="center">Aspiring Data Scientist | Python | SQL | Data Analysis</h3>
+
+---
 
 🚀 About Me
 
@@ -21,7 +23,7 @@
 - **Statistical Analysis & Modeling**  
 - **SQL** – Data Extraction, Cleaning & Transformation  
 - **Machine Learning** – Scikit-learn, Regression, Classification
-- **Data Visualization** – Pandas,Matplotlib, Seaborn  
+- **Data Visualization** – Pandas, Matplotlib, Seaborn  
 
 ---
 
@@ -41,5 +43,5 @@
   <a href="https://www.linkedin.com/in/mdimran6426">LinkedIn</a>
 </p>
 <p>
-  📧 Email: <a href="imranhossan6426@gmail.com">imranhossan6426@gmail.com</a>
+  <a href="mailto:imranhossan6426@gmail.com">
 </p>
