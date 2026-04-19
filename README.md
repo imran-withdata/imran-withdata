@@ -41,5 +41,5 @@
   <a href="https://www.linkedin.com/in/mdimran6426">LinkedIn</a>
 </p>
 <p>
-  Email: <a href="md.imran.econ@gmail.com">md.imran.econ@gmail.com</a>
+  📫 Email: mdimran123@gmail.com
 </p>
