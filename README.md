@@ -36,20 +36,13 @@
 
 ---
 
-📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-withdata&show_icons=true&theme=tokyonight" />
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imran-withdata&theme=tokyonight" />
-</p>---
 
 📫 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/mdimran6426">LinkedIn</a>
+</p>
+<p>
+  <a href="md.imran.econ@gmail.com">E-mail</a>
 </p>
