@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Science+Specialist;Machine+Learning+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Science+Specialist;Machine+Learning;Data+Analysis" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Imran</h1>
