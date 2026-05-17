@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Imran</h1>
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Data Analysis</h3>
+<h3 align="center"> Data Science | Machine learning | Python | SQL | Data Analysis</h3>
 
 ---
 
