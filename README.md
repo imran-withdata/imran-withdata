@@ -1,45 +1,25 @@
+# ðŸ“Š Data Analysis using NumPy
 
+This project demonstrates basic to intermediate data analysis using NumPy in Python.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Science;Machine+Learning;Data+Analysis" />
-</p>
+## ðŸš€ Features
+- Array creation (arange, linspace, zeros, eye)
+- Random number generation (rand, randn, randint)
+- Reshaping arrays
+- Statistical operations (min, max, argmin, argmax)
+- Practical examples of NumPy usage
 
-<h1 align="center">Hi 👋, I'm Md. Imran</h1>
-<h3 align="center">Aspiring Data Scientist | Python | SQL | Data Analysis</h3>
+## ðŸ“‚ Project Structure
+- `Data Analysis using NumPy.ipynb` â†’ Main notebook file
+- `requirements.txt` â†’ Required libraries
 
----
+## ðŸ› ï¸ Technologies Used
+- Python
+- NumPy
+- Jupyter Notebook
 
-🚀 About Me
+## â–¶ï¸ How to Run
 
-- 📊 Passionate about Data Science & Machine Learning
-- 💡 Interested in Financial & Banking Analytics
-- 🌱 Currently learning advanced ML techniques
-
----
- 
-## 🛠️ Tech Stack
-
-- **Python** – NumPy, Pandas, Data Analysis  
-- **Statistical Analysis & Modeling**  
-- **SQL** – Data Extraction, Cleaning & Transformation  
-- **Machine Learning** – Scikit-learn, Regression, Classification
-- **Data Visualization** – Pandas, Matplotlib, Seaborn  
-
----
-
-📌 Featured Projects
-
-🔹 Chicago Payroll Data Analysis
-🔹 Financial Data Analysis (Coming Soon)
-🔹 Machine Learning Project (Coming Soon)
-
----
-
-
-
-📫 Connect with Me
-
-<p>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mdimdiram6426">Profile</a><br>
-  📧 Email: <a href="mailto:imranhossan6426@gmail.com">imranhossan6426@gmail.com</a>
-</p>
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/numpy-data-analysis-project.git
