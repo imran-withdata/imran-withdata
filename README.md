@@ -42,6 +42,6 @@
 📫 Connect with Me
 
 <p>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mdimdiram6426">Profile</a><br>
+  🔗 LinkedIn: <a href="www.linkedin.com/in/mdimran6426">Profile</a><br>
   📧 Email: <a href="mailto:imranhossan6426@gmail.com">imranhossan6426@gmail.com</a>
 </p>
