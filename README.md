@@ -31,9 +31,9 @@
 
 📌 Featured Projects
 
-- 🔹 Chicago Payroll Data Analysis
-- 🔹 Titanic Survival Prediction(EDA)
-- 🔹 Machine Learning Project 
+-  Chicago Payroll Data Analysis
+-  Titanic Survival Prediction(EDA)
+-  Machine Learning Project 
      1. Handwritten-Digit Classification (KNN)
      2. Breast Cancer Optimization (SVM)
 
